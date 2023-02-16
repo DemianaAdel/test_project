@@ -1,4 +1,4 @@
-# test_project
-embeded diploma
+# embedded system dipoma
+embedded diploma
 
 
